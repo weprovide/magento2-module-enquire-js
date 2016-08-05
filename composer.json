@@ -1,0 +1,19 @@
+{
+    "name": "timneutkens/magento2-module-enquire-js",
+    "description": "Add Enquire.js from CDN as a require.js module shim. With fallback to local version when CDN is offline.",
+    "type": "magento2-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tim Neutkens"
+        }
+    ],
+    "require": {
+        "magento/framework": "^100.0.0"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
