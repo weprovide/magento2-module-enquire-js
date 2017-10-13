@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "magento/framework": "^100.0.0"
+        "magento/framework": "~100.0|~101.0"
     },
     "autoload": {
         "files": [
