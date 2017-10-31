@@ -1,5 +1,5 @@
 {
-    "name": "timneutkens/magento2-module-enquire-js",
+    "name": "weprovide/magento2-module-enquire-js",
     "description": "Add Enquire.js from CDN as a require.js module shim. With fallback to local version when CDN is offline.",
     "type": "magento2-module",
     "license": "MIT",

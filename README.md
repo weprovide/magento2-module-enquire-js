@@ -4,7 +4,7 @@ Add Enquire.js from CDN as a require.js module shim. With fallback to local vers
 
 ## Installation
 
-1. `composer require timneutkens/magento2-module-enquire-js`  
+1. `composer require weprovide/magento2-module-enquire-js`  
 will install the latest version. If you want a specific Enquire.js version you can use this:  
 `composer require timneutkens/magento2-module-enquire-js:<version here>`
 
