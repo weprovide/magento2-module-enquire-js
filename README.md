@@ -15,6 +15,7 @@ will install the latest version. If you want a specific Enquire.js version you c
 ### Available versions
 
 - 2.1.2
+- 2.1.6
 
 ## Usage
 
